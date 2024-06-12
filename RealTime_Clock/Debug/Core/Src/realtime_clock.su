@@ -1,0 +1,3 @@
+../Core/Src/realtime_clock.c:22:6:blink_led	16	static
+../Core/Src/realtime_clock.c:34:6:encoder_Inc_Dec	4	static
+../Core/Src/realtime_clock.c:228:6:mode	64	static
